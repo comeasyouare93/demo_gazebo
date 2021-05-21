@@ -1,0 +1,2 @@
+demo_gazebo:dlite_simulator:urdf01_rviz:urdf02_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/ln/demo05_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ln/demo05_ws/install -G Unix Makefiles

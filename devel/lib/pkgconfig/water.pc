@@ -1,0 +1,8 @@
+prefix=/home/ln/demo05_ws/devel
+
+Name: water
+Description: Description of water
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

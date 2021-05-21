@@ -1,0 +1,8 @@
+prefix=/home/ln/demo05_ws/install
+
+Name: dlite_simulator
+Description: Description of dlite_simulator
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldlite_simulator
+Requires: geometry_msgs nav_msgs roscpp rospy tf visualization_msgs message_runtime
